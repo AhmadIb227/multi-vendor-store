@@ -1,0 +1,22 @@
+<style>
+                        #load-more-1 {
+                        text-align: right;
+                      
+                          }
+                         @media (max-width: 767px) {
+                            .text-center {
+                                margin-top: 40px;}
+                    #load-more-1 {
+                        padding-top: 5px;
+        text-align: center;
+        margin-top: -180px;
+        margin-right: 258px;
+        width: 120px;
+    height: 40px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 10px;
+                     }
+
+                 }
+            </style>
